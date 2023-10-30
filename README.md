@@ -17,6 +17,8 @@ This repository holds all the mechanic files for the different versions of Touch
 - touch_detect_dev_kit_v1: all mechanic files related to the first release of TouchDetect.
 - touch_detect_dev_kit_v2: all mechanic files related to the second release of TouchDetect.
 - sensor_array: mechanic files related to the sensor array. These file are common across different versions of TouchDetect.
+- docs: contains extra documentation relate to the hardware.
+  - components_list.xlsx: list of secondary components required to use the sensor (connectors, cables, etc.)
 
 ## Usage
 
